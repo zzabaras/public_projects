@@ -5,12 +5,12 @@
 Список проектів: 
 - [RFM_sql_project](RFM-аналіз_аптеки.pdf) - аналіз клієнтської бази аптечної мережі на SQL. 
 - [Дашборд в Excel](Аналіз_абонентів.xlsx) - Дашборд аналізу абонентів оператора зв'язку в Excel
-- 
+  
 ![scrinshot](images/excel_dashboard.png)
 
 
 - [Дашборд Power BI](SalesDashboardContoso.pbix) - продажі компанії Contoso в Power BI + декілка варіантів оформлення візуалів
-- 
+  
 ![scrinshot](images/power_bi_dashboard_1.png)
 ![scrinshot](images/power_bi_dashboard_2.png)
 
