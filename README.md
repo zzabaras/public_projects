@@ -18,6 +18,6 @@
 - [Аналіз окупаємості маркетингових інвестицій ROMI на Python.](LTV_CAC.ipynb)
 - [EDA на Python.](taxy_EDA.ipynb) - Дослідницький аналіз часу заправок автомобілів.
 
-**Запропонувати мені роботу: zabarasy@gmail.com**
+**Запропонувати мені роботу: zzabaras@gmail.com**
 
 # public_projects
