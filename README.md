@@ -20,6 +20,6 @@
 - [Вплив на продажі маркетингових активностей в мережі магазинів.(Eng)](marketing_impact.ipynb) 
 - [Загальний аналіз продажів групи товарів. (Eng)](quantium.ipynb) + [в форматі pdf](quantium.pdf)
 
-**Запропонувати мені роботу: zabarasy@gmail.com**
+**Запропонувати мені роботу: zzabaras@gmail.com**
 
 # public_projects
