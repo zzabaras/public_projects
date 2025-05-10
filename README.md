@@ -17,8 +17,8 @@
 - [ABC-XYZ аналіз на Python.](ABC_XYZ.ipynb)
 - [Аналіз окупаємості маркетингових інвестицій ROMI на Python.](LTV_CAC.ipynb)
 - [EDA на Python.](taxy_EDA.ipynb) - Дослідницький аналіз часу заправок автомобілів.
-- [Вплив на продажі маркетингових активностей в мережі магазинів.(Eng)](marketing_impact.ipynb) 
-- [Загальний аналіз продажів групи товарів. (Eng)](quantium.ipynb) + [в форматі pdf](quantium.pdf)
+- [Вплив на продажі маркетингових активностей в мережі магазинів на Python.(Eng)](marketing_impact.ipynb) 
+- [Загальний аналіз продажів групи товарів на Python.(Eng)](quantium.ipynb) + [в форматі pdf](quantium.pdf)
 
 **Запропонувати мені роботу: zzabaras@gmail.com**
 
